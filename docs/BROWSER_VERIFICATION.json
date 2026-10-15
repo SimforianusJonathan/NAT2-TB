@@ -1,0 +1,20 @@
+{
+  "checkedAt": "2026-10-15T15:31:05.582Z",
+  "base": "http://127.0.0.1:3001",
+  "browser": "151.0.7922.34",
+  "viewport": "1440×1100 desktop; 390×844 mobile",
+  "checks": [
+    "Overview navigation and four synthetic cases",
+    "Priority filter, search and recoverable empty state",
+    "High-priority detail, independent concern indicators, reasoning and JSON export",
+    "Day 14 escalation, static genotype, reload persistence and historical assessment",
+    "Optional concentration controls and missing-data uncertainty",
+    "Evidence registry, explicit placeholder and inspectable rules",
+    "Reset confirmation, cancel and restoration of original cases",
+    "Malformed local storage recovers to synthetic defaults",
+    "Unknown patient route has a working recovery link",
+    "390px mobile layouts contain overflow within tables",
+    "No unexpected browser console errors or uncaught exceptions"
+  ],
+  "errors": []
+}
